@@ -1,0 +1,19 @@
+{
+  "name": "quina-player",
+  "version": "1.0.0",
+  "description": "Plays quina.app game for you",
+  "main": "play.js",
+  "dependencies": {
+    "puppeteer": "^10.0.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "quina",
+    "puppeteer"
+  ],
+  "author": "Shawn S. Thottan",
+  "license": "ISC"
+}
