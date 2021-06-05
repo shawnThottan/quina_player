@@ -1,9 +1,9 @@
 # quina.app Player
-A [Puppeteer](https://developers.google.com/web/tools/puppeteer) script that plays the game [quina.app](https://quina.app/).
+A [Puppeteer](https://developers.google.com/web/tools/puppeteer) script that plays [quina.app](https://quina.app/).
 
 ## What it does
  - Opens up the game on the in-built browser.
- - Solves the game on its own.
+ - Solves a game on its own.
  - Waits for you to start the game again.
 
 ![quina Player Demo](https://github.com/shawnThottan/quina_player/blob/master/quina-player.gif?raw=true)
